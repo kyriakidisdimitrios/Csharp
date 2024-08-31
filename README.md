@@ -16,7 +16,7 @@ To build and run this project, you need to have the following installed:
 
 First, clone the repository to your local machine using Git:
 
-```bash
+
 git clone https://github.com/kyriakidisdimitrios/HelloWorld.git
 cd HelloWorld
 
