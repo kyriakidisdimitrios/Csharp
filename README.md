@@ -18,6 +18,7 @@ First, clone the repository to your local machine using Git:
 
 
 git clone https://github.com/kyriakidisdimitrios/HelloWorld.git
+
 cd HelloWorld
 
 ### 2. Open the Project in Visual Studio
